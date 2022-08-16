@@ -62,7 +62,7 @@ async def start(b, m):
                 [
                     [InlineKeyboardButton("⚡ ᴜᴘᴅᴀᴛᴇᴢ ⚡", url="https://t.me/anumitultrabots"), InlineKeyboardButton("⚡ sᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/anumitultrabots")],
                     [InlineKeyboardButton("💸 ᴅᴏɴᴀᴛᴇ 💸", url="https://paypal.me/ajak4405"), InlineKeyboardButton("💠 ɢɪᴛʜᴜʙ 💠", url="https://github.com/amit4405")],
-                    [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="t.me/anumitultrabots")]
+                    [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="https://youtube.com/channel/UCwcrNWUEsrfBjCt56vwnVbw")]
                 ]
             ),
             
@@ -179,7 +179,7 @@ async def help_handler(bot, message):
             [
                 [InlineKeyboardButton("⚡ ᴜᴘᴅᴀʏᴇᴢ ⚡", url="https://t.me/anumitultrabots"), InlineKeyboardButton("⚡ sᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/anumitultrabots")],
                 [InlineKeyboardButton("💸 ᴅᴏɴᴀᴛᴇ 💸", url="https://paypal.me/ajak4405"), InlineKeyboardButton("💠 ɢɪᴛʜᴜʙ 💠", url="https://github.com/ajak4405")],
-                [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="https://t.me/anumitultrabots")]
+                [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="https://youtube.com/channel/UCwcrNWUEsrfBjCt56vwnVbw")]
             ]
         )
     )
@@ -235,7 +235,7 @@ async def about_handler(bot, message):
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 ┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://github.com/amit4406/File-To-Link'>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ</a></b>
-┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://t.me/anumitultrabots'>ᴏᴘᴜs ᴛᴇᴄʜᴢ</a></b>
+┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/channel/UCwcrNWUEsrfBjCt56vwnVbw'>ᴏᴘᴜs ᴛᴇᴄʜᴢ</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
@@ -243,7 +243,7 @@ async def about_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("⚡ ᴜᴘᴅᴀᴛᴇᴢ ⚡", url="https://t.me/anumitultrabots"), InlineKeyboardButton("💸 ᴅᴏɴᴀᴛᴇ 💸", url="https://paypal.me/ajak4405")],
-                [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="https://t.me/anumitultrabots")]
+                [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="https://youtube.com/channel/UCwcrNWUEsrfBjCt56vwnVbw")]
             ]
         )
     )
