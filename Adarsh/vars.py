@@ -21,7 +21,7 @@ class Var(object):
     PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
     OWNER_ID = set(int(x) for x in os.environ.get("OWNER_ID", "5076949930").split())  
     NO_PORT = bool(getenv('NO_PORT', False))
-    APP_NAME = logo-maker-bot
+    APP_NAME = "logo-maker-bot"
     OWNER_USERNAME = str(getenv('OWNER_USERNAME', "ajak4405"))
     if 'DYNO' in environ:
         ON_HEROKU = True
